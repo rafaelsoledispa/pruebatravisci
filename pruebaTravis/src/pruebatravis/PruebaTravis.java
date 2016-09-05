@@ -20,6 +20,7 @@ public class PruebaTravis {
         System.out.println("prueba");
         System.out.println("prueba travis");
         System.out.println("hola travis");
+        System.out.println("TravisCI");
     }
     
 }
